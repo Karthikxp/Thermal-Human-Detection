@@ -4,6 +4,8 @@ This project utilizes a state-of-the-art YOLOv8 model to perform real-time human
 
 The core of the program is a YOLOv8 model fine-tuned for detecting human heat signatures, making it highly effective for deployment on drones and other remote platforms.
 
+![Thermal Human Detection live drone feed](./asset/fin.png)
+
 ## Key Features
 
 - **High-Accuracy Thermal Detection:** Leverages a pre-trained YOLOv8 model (`pitangent-ds/YOLOv8-human-detection-thermal`) specifically fine-tuned for human detection in thermal spectra.
